@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+    font-size: 1.75em;
+    color: #410093;
+    font-weight: bold;
+}
+
+section {
+    background-color: #7ABA7A;
+    border: 1px solid #000000;
+    margin: 0 0 25px 0;
+    padding: 0;
+}
+
+section h3 {
+    font-size: 1.25em;
+    color: #028482;
+}
+
+section p {
+    padding: 0 6px 4px 6px;
+}
+
